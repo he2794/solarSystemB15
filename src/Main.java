@@ -8,7 +8,7 @@ public class Main {
 
         featureSun Xron=new featureSun();
         Xron.temperature="1232334k";
-        Xron.radius=123452343;
+        Xron.radius="123452343";
         Xron.color="pink";
 
 
